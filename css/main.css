@@ -355,7 +355,7 @@ a{
           }
 .menu{
   margin-top: 20px;
-  font-size: 22px;
+  font-size: 16px;
 }
                 .menu>li>a{
                   color: black;
@@ -464,7 +464,6 @@ a{
         .thumbnail .caption-md h5{
           font-family: "Bariol";
           font-size: 18px;
-          color: #6bb230;
           font-weight: bold;
           margin: 0px;
         }
